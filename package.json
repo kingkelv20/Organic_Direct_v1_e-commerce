@@ -1,0 +1,15 @@
+{
+  "name": "organic-direct",
+  "version": "1.0.0",
+  "description": "Connecting Consumers and Farmers for Organic Produce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+    // Add other dependencies as needed
+  }
+}
+
